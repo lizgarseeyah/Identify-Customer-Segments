@@ -1,6 +1,6 @@
 # Identify-Customer-Segments
 
-### 
+### Identify_Customer_Segments.ipynb: main file
 
 The data and design for this project was provided by Arvato Financial Services. 
 This project uses unsupervised learning techniques on demographic and spending data 
